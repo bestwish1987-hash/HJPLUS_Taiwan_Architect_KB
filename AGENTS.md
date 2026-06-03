@@ -180,7 +180,7 @@ interface SkillParams {
 
 | Content Type | License |
 |--|--|
-| **Documentation** (`.md` files) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) |
-| **Code** (`.sh`, `.py`, `.js`, `.ts`, etc.) | [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) |
+| **Documentation** (`.md` files) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) |
+| **Code** (`.sh`, `.py`, `.js`, `.ts`, etc.) | [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
 
 See [LICENSE](LICENSE) and [LICENSE-CODE](LICENSE-CODE) for full text.
